@@ -41,5 +41,6 @@ int main()
     cout << "Multiplication Result: " << multiply(3, 5) << endl;
     cout << "Cube of 3: " << cube(3) << endl;
 
+
    return 0;
 }
