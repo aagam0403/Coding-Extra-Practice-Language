@@ -2,7 +2,6 @@
 using namespace std;
 int main() 
 {
-   //Classes and Objects
     class Car {
     public:
         string brand;
