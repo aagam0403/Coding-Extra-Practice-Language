@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int stack[5],n=5,top=-1;
 void push(int val)
 {
